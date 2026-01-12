@@ -33,10 +33,10 @@ Instead of relying on a single monolithic model, Sleipnir organizes multiple age
 
 ---
 
-##  Project Structure (Example)
+##  Project Structure 
 
 
-
+```
 Sleipnir/
 ├── agents/        # Agent definitions and coordination logic
 ├── llms/          # LLM adapters (OpenAI / local / third-party)
@@ -46,7 +46,7 @@ Sleipnir/
 ├── README.md
 └── LICENSE
 
-
+```
 ---
 
 ##  Quick Start
