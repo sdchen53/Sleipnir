@@ -1,4 +1,3 @@
-```markdown
 # Sleipnir
 
 Sleipnir is a **multi-agent, multi-model collaborative LLM framework** designed to solve complex tasks through **role-based cooperation, debate, critique, and result fusion**.
@@ -47,7 +46,6 @@ Sleipnir/
 ├── README.md
 └── LICENSE
 
-````
 
 ---
 
@@ -117,7 +115,7 @@ to achieve **more stable and controllable intelligence**.
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome for:
 
@@ -131,14 +129,14 @@ Please open an Issue or Pull Request.
 
 ---
 
-## 📌 Disclaimer
+##  Disclaimer
 
 This project is for **research and experimental purposes only**.
 No guarantee of correctness, safety, or fitness for any production use.
 
 ---
 
-## ⭐ Acknowledgement
+##  Acknowledgement
 
 Inspired by:
 
