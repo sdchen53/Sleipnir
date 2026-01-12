@@ -249,7 +249,7 @@ def extract_confidence_operation(prediction_line):
     
     return operation_map[highest_operation], hands
 
-def getStockMarketData(ticker, api_key = 'F62MHL3VDUMCEMGP'):
+def getStockMarketData(ticker, api_key = '……'):
     if not os.path.exists(f'./data/stock_market_data-{ticker}.csv'):
         # ====================== Loading Data from Alpha Vantage ==================================
 
@@ -401,8 +401,8 @@ character_presets = {
     # "final": "You are a final decision maker, aggregating insights from multiple agents to provide a comprehensive investment strategy."
     }
 leader_preset = "You are a leader decision maker, aggregating insights from multiple agents to provide a comprehensive investment strategy."
-anything_api = "1DV9A3A-SFFM1XR-QF4TYMR-HZ5X8RY"
-entrypoint = "http://10.201.35.124:3001/api/v1/"
+anything_api = "……"
+entrypoint = "……"
 message_preset = "@agent Get {} stock info, from {} to {}, predict the later day's price, and give the buy-in or hold or sell-out decision on {}, with confidence."
 message_outformat = "Current holding is {} shares, max holding is {} shares. Trade limit per operation is{}, expected return percentage is {}. Answer MUST contain Example style: '{}, buy-in, 0.5, hold, 0.1, sell-out, 0.4, hands-in, 200, hands-off, 100'"
 # TODO 2025-07-20 git.V.aab24: fill the holding shares with updated operation
