@@ -62,9 +62,6 @@ cd Sleipnir
 
 ```bash
 python -m venv .venv
-# Windows:
-# .venv\Scripts\activate
-# Linux / macOS:
 source .venv/bin/activate
 
 pip install -r requirements.txt
@@ -76,7 +73,6 @@ Create a `.env` file:
 
 ```bash
 OPENAI_API_KEY=your_key_here
-# Or other LLM endpoints
 ```
 
 ### 4. Run Example
