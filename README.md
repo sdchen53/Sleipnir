@@ -5,7 +5,7 @@ Sleipnir is a **multi-agent, multi-model collaborative LLM framework** designed 
 
 Instead of relying on a single monolithic model, Sleipnir organizes multiple agents (e.g., Planner, Researcher, Coder, Critic, Judge) and optionally multiple heterogeneous LLMs to collaboratively reason, verify, and refine solutions.
 
-> 🎯 Goal: Improve robustness, reasoning quality, and controllability of LLM systems by structured multi-agent collaboration.
+>  Goal: Improve robustness, reasoning quality, and controllability of LLM systems by structured multi-agent collaboration.
 
 ---
 
@@ -36,7 +36,7 @@ Instead of relying on a single monolithic model, Sleipnir organizes multiple age
 
 ##  Project Structure (Example)
 
-```
+
 
 Sleipnir/
 ├── agents/        # Agent definitions and coordination logic
