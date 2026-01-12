@@ -8,7 +8,7 @@ params = {
     "time_from": "20220410T0130",
     "time_to": "20220510T0230",
     "tickers": "AAPL,MSFT",
-    "apikey": "F62MHL3VDUMCEMGP",
+    "apikey": "……",
     "limit": 10
 }
 
