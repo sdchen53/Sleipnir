@@ -113,19 +113,6 @@ to achieve **more stable and controllable intelligence**.
 * Agent-based simulation systems
 * Financial / security / system analysis (research only)
 
----
-
-##  Contributing
-
-Contributions are welcome for:
-
-* New agents
-* New collaboration strategies
-* New LLM adapters
-* Tool integration
-* Evaluation & benchmarks
-
-Please open an Issue or Pull Request.
 
 ---
 
@@ -144,5 +131,3 @@ Inspired by:
 * Debate-based reasoning
 * Self-refinement LLMs
 * Tool-augmented LLM frameworks
-
-```
