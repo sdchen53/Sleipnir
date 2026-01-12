@@ -192,8 +192,8 @@ def extract_prediction_line(response_text, ticker=None, date=None):
 
 
 
-anything_api = "1DV9A3A-SFFM1XR-QF4TYMR-HZ5X8RY"
-entrypoint = "http://10.201.35.124:3001/api/v1/"
+anything_api = "……"
+entrypoint = "……"
 message_preset = "@agent {} Get {} stock info, from {} to {}, predict the later day's price, and give the buy-in or hold or sell-out decision on {}, with confidence. Current holding is {} shares.  Example: '{}, buy-in, 0.8, hold, 0.1, sell-out, 0.1'"
 # TODO 2025-07-20 git.V.aab24: fill the holding shares with updated operation
 
