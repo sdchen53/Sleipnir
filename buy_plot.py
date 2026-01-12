@@ -18,7 +18,7 @@ def buy_plot(df_market, df_operation):
     plt.tight_layout()
     plt.show()
 
-def getStockMarketData(ticker, api_key = '4MFYSPOPV210V5WT'):
+def getStockMarketData(ticker, api_key = '……'):
     if not os.path.exists(f'./data/stock_market_data-{ticker}.csv'):
         # ====================== Loading Data from Alpha Vantage ==================================
 
