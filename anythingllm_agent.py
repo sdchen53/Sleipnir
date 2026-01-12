@@ -178,8 +178,8 @@ def chatWithThread(workspace_slug: str, thread_slug: str, message: str) -> str:
 
 
 
-anything_api = "1DV9A3A-SFFM1XR-QF4TYMR-HZ5X8RY"
-entrypoint = "http://10.201.35.124:3001/api/v1/"
+anything_api = "……"
+entrypoint = "……"
 
 
 
